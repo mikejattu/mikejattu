@@ -63,10 +63,11 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
 
 ---
 
-## 🧠 Contributions:
-<br clear="both">
+### 🐍 GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/samia225/samia225/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](https://raw.githubusercontent.com/mikejattu/mikejattu/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/mikejattu/mikejattu/output/github-snake-dark.svg#gh-dark-mode-only)
+
 
 
 ### 📫 Let’s Connect!
