@@ -65,10 +65,8 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/mikejattu/mikejattu/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/mikejattu/mikejattu/output/github-snake-dark.svg#gh-dark-mode-only)
-
-
+![Light Mode Snake](https://raw.githubusercontent.com/mikejattu/mikejattu/output/snake-light.svg#gh-light-mode-only)
+![Dark Mode Snake](https://raw.githubusercontent.com/mikejattu/mikejattu/output/snake-dark.svg#gh-dark-mode-only)
 
 ### 📫 Let’s Connect!
 - Email: **sjattu@ualberta.ca**
