@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
 - 🧠 Researcher in AI applications for healthcare, including stroke rehabilitation
 - 🛠️ Developer of **Food Minder** – a React Native app for reducing food waste and tracking groceries
 - 🖥️ Currently working on an **Electron-based OPC UA GUI** for industrial automation
-- 👨‍💻 Junior Data Scientist @ **City of Edmonton  **
+- 👨‍💻 Junior Data Scientist @ **City of Edmonton**
 
 
 ---
