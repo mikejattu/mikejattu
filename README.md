@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
 ### 🚀 About Me
 - 🎓 3rd-year Computer Science (Honors with AI Option) student
 - 💡 Always learning and building — from intelligent desktop apps to mobile solutions that improve lives
-- 🧠 Researcher in AI applications for healthcare, including stroke rehabilitation
 - 🛠️ Developer of **Food Minder** – a React Native app for reducing food waste and tracking groceries
 - 🖥️ Currently working on an **Electron-based OPC UA GUI** for industrial automation
 - 👨‍💻 Junior Data Scientist @ **City of Edmonton**
@@ -18,18 +17,9 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
 ### 🔍 Interests
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data-Driven UX
-- 🧘 Yoga + Mindfulness technologies
 - 💻 Full-Stack Development (React / Node.js / MongoDB)
 - 🔌 IoT & Industrial Systems Integration
 - 🛡️ Cyber Security  
-
----
-
-### 💬 Ask Me About
-- How to get started with AI projects
-- Building modern UIs with React & TypeScript
-- Connecting physical systems with software (OPC UA, IoT)
-- Balancing code, school, and side projects 😅
 
 ---
 
@@ -72,11 +62,6 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
 - Email: **sjattu@ualberta.ca**
 - LinkedIn: [linkedin.com/in/mikejattu](https://www.linkedin.com/in/mikejattu)
 - Portfolio (coming soon...)
-
----
-
-### ⚡ Fun Fact
-I'm a Data Scientist at City of Edmonton and learning to be a yoga practitioner — blending science and inner stillness, one breath (and line of code) at a time.
 
 ---
 
