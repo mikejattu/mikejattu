@@ -54,7 +54,6 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikejattu&show_icons=true&theme=radical" alt="Mike's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikejattu&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
 <p align="center">
