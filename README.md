@@ -46,9 +46,6 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
   <img src="https://github-readme-stats.vercel.app/api?username=mikejattu&show_icons=true&theme=radical" alt="Mike's GitHub Stats" height="160" #gh-dark-mode-only />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikejattu&theme=radical" alt="GitHub Streak" height="160" #gh-dark-mode-only />
-</p>
 
 
 ---
