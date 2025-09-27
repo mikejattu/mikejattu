@@ -58,6 +58,7 @@ Welcome to my GitHub! I'm a passionate and curious Computer Science student, exp
 ### 📫 Let’s Connect!
 - Email: **sjattu@ualberta.ca**
 - LinkedIn: [linkedin.com/in/mikejattu](https://www.linkedin.com/in/mikejattu)
+- Website: [https://mikejattu.vercel.app/](https://mikejattu.vercel.app/)
 
 ---
 
